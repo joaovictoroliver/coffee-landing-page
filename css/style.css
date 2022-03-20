@@ -35,7 +35,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-  background: #fff;
+  background: var(--main-color);
   border-radius: 5rem;
 }
 
@@ -90,7 +90,7 @@ section {
 
 
 .header .logo img {
-  height: 6rem;
+  height: 9rem;
 }
 
 .header .navbar a {
